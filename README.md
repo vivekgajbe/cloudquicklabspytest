@@ -1,4 +1,4 @@
 # cloudquicklabspytest
 
-# This repository is created for Clodu Quick Labs Demo
+# This repository is created for cluod Quick Labs Demo
 # Testing AWS infrastructure
