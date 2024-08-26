@@ -44,8 +44,8 @@ jobs:
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v3
 
-      - name: Publish code coverage results
-        uses: 5monkeys/cobertura-action@master
+      # - name: Publish code coverage results
+      #   uses: 5monkeys/cobertura-action@master
         # with:
         #   path: ${{ github.workspace }}/AWSTestExecutions/coverage.xml
         #   minimum_coverage: 75
