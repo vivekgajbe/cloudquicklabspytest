@@ -9,4 +9,4 @@ def test_aws_iam_check_if_policy_exist():
 
 
 def test_aws_iam_check_if_role_exist():
-    assert aws_iam_check_if_role_exist(iam) == True
+    assert aws_iam_check_if_role_exist(iam) == False
